@@ -1,0 +1,50 @@
+div{
+    text-align: center;
+    
+    
+}
+p{
+    margin-top: 50px;
+    
+    
+}
+
+.A,.B,.C,.D,.E{
+    background-color: greenyellow;
+    border-collapse: collapse;
+    box-shadow: 10px 20px 5px black;
+    
+}
+.A{
+    border: 2px solid black;
+    height: 20vh;
+    width: 15vw;
+    display: inline-block;
+    border-collapse: collapse;
+
+}
+.B{
+    border: 2px solid black;
+    height: 20vh;
+    width: 15vw;
+    display: inline-block;
+    
+}
+.C{
+    border: 2px solid black;
+    height: 20vh;
+    width: 15vw;
+    display: inline-block;
+}
+.D{
+    border: 2px solid black;
+    height: 20vh;
+    width: 15vw;
+    display: inline-block;
+}
+.E{
+    border: 2px solid black;
+    height: 20vh;
+    width: 15vw;
+    display: inline-block;
+} 
